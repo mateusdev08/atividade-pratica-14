@@ -1,0 +1,54 @@
+body{
+    background-color: #240024;
+    color: white;
+}
+
+section > h2{
+    margin-top: 24px;
+    text-align: center;
+}
+
+.desc-cavaleiros{
+    text-align: justify;
+    color: #240024;
+    font-weight: bold;
+}
+
+.cdz-bronze{
+    background-color: #8C7853;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.cdz-prata{
+    background-color: #C0C0C0;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.cdz-ouro{
+    background-color: #ffd700;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+button > a{
+    color: white;
+    text-decoration: none;
+}
+
+button > a:active{
+    color: white;
+    text-decoration: none;
+}
+
+footer{
+    padding: 10px;
+    margin-top: 24px;
+}
+
+footer > p{
+    color: #240024;
+    text-align: center;
+    font-weight: bold;
+}
